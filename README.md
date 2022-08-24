@@ -5,7 +5,7 @@
 A practise frontend based application using typescript. 
 * No external framework used like reactjs or angular etc.
 * No external npm libraries used.
-* Usage of Webpack
+* Usage of ESlink & Webpack
 
 ### Installing
 
