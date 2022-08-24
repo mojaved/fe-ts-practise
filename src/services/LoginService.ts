@@ -1,6 +1,6 @@
 import { ISessionToken } from '../models/AuthenticationModel';
 
-const baseUrl = 'http://localhost:8080/';
+const baseUrl = 'http://ec2-54-144-234-100.compute-1.amazonaws.com:8080/';
 const loginUrl = `${baseUrl}login`;
 
 export class LoginService {

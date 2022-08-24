@@ -1,6 +1,6 @@
 import { User } from '../models/DataModels';
 
-const baseUrl = 'http://localhost:8080/';
+const baseUrl = 'http://ec2-54-144-234-100.compute-1.amazonaws.com:8080/';
 const userUrl = `${baseUrl}users`;
 
 export class DataService {
